@@ -1,0 +1,1001 @@
+Date,Product,Category,Price,Quantity,Rating,Revenue
+2016-01-01,Monitor,Computers,146,19,3.1,6581
+2016-01-02,Smartphone,Computers,156,28,2.4,7661
+2016-01-03,Router,Accessories,852,22,4.7,5134
+2016-01-04,Headphones,Networking,490,26,1.2,7070
+2016-01-05,Camera,Accessories,422,5,2.8,2811
+2016-01-06,Laptop,Computers,756,41,3.6,6432
+2016-01-07,Smartwatch,Accessories,749,38,2.7,7311
+2016-01-08,Keyboard,Accessories,43,45,3.0,4699
+2016-01-09,Keyboard,Networking,436,5,2.4,4823
+2016-01-10,Laptop,Accessories,54,43,3.8,8770
+2016-01-11,Smartphone,Mobile Devices,453,34,3.7,3146
+2016-01-12,Monitor,Accessories,612,7,4.2,2817
+2016-01-13,Keyboard,Audio & Video,419,1,3.4,9945
+2016-01-14,Laptop,Computers,306,32,1.6,6553
+2016-01-15,Monitor,Audio & Video,53,28,3.5,6883
+2016-01-16,Camera,Accessories,256,11,3.6,7323
+2016-01-17,Keyboard,Computers,188,50,2.9,7448
+2016-01-18,Camera,Accessories,743,50,4.3,3953
+2016-01-19,Monitor,Networking,868,24,3.9,8130
+2016-01-20,Router,Networking,712,45,2.7,8020
+2016-01-21,Headphones,Audio & Video,979,29,1.6,3472
+2016-01-22,Smartphone,Computers,845,21,4.3,4908
+2016-01-23,Headphones,Networking,312,4,1.5,5258
+2016-01-24,Smartwatch,Audio & Video,125,23,4.2,2781
+2016-01-25,Smartphone,Accessories,943,43,1.2,6351
+2016-01-26,Headphones,Networking,402,41,4.0,4154
+2016-01-27,Smartwatch,Accessories,240,7,4.2,2225
+2016-01-28,Headphones,Networking,861,28,2.1,9471
+2016-01-29,Smartwatch,Mobile Devices,656,11,3.7,4637
+2016-01-30,Keyboard,Mobile Devices,337,13,3.3,6687
+2016-01-31,Camera,Audio & Video,131,9,4.4,6221
+2016-02-01,Smartwatch,Accessories,830,21,2.1,5553
+2016-02-02,Smartwatch,Audio & Video,940,48,4.9,4478
+2016-02-03,Smartwatch,Mobile Devices,881,16,2.8,5671
+2016-02-04,Keyboard,Networking,538,12,2.1,2438
+2016-02-05,Laptop,Accessories,358,25,1.6,5004
+2016-02-06,Headphones,Networking,691,44,4.2,3438
+2016-02-07,Smartphone,Accessories,215,25,4.4,3318
+2016-02-08,Headphones,Audio & Video,78,1,4.1,6443
+2016-02-09,Camera,Computers,563,30,3.0,8194
+2016-02-10,Camera,Accessories,316,24,4.9,2995
+2016-02-11,Router,Networking,596,47,1.4,3327
+2016-02-12,Tablet,Audio & Video,740,13,2.3,9906
+2016-02-13,Drone,Computers,97,3,1.2,4604
+2016-02-14,Monitor,Accessories,850,23,4.3,9837
+2016-02-15,Tablet,Audio & Video,230,29,2.4,9855
+2016-02-16,Laptop,Mobile Devices,959,39,3.8,5718
+2016-02-17,Camera,Audio & Video,54,11,4.0,8097
+2016-02-18,Headphones,Audio & Video,687,44,3.9,6287
+2016-02-19,Monitor,Computers,831,2,3.2,2118
+2016-02-20,Smartphone,Accessories,231,24,4.8,3025
+2016-02-21,Tablet,Accessories,460,10,1.6,2094
+2016-02-22,Monitor,Mobile Devices,243,11,3.1,4359
+2016-02-23,Smartwatch,Audio & Video,364,27,2.3,2177
+2016-02-24,Tablet,Accessories,67,44,1.8,4083
+2016-02-25,Keyboard,Audio & Video,647,36,2.3,3174
+2016-02-26,Keyboard,Computers,177,4,4.1,9572
+2016-02-27,Drone,Accessories,221,8,3.2,6125
+2016-02-28,Drone,Mobile Devices,495,8,3.9,8664
+2016-02-29,Camera,Networking,850,43,3.4,4286
+2016-03-01,Keyboard,Audio & Video,821,22,3.0,3850
+2016-03-02,Camera,Mobile Devices,329,42,3.8,5640
+2016-03-03,Camera,Audio & Video,939,15,4.8,2301
+2016-03-04,Router,Computers,952,50,2.9,3878
+2016-03-05,Laptop,Mobile Devices,479,25,2.1,3821
+2016-03-06,Smartphone,Accessories,71,27,4.0,9253
+2016-03-07,Monitor,Accessories,127,13,3.0,3657
+2016-03-08,Tablet,Computers,763,48,2.5,9561
+2016-03-09,Drone,Accessories,227,17,3.7,7934
+2016-03-10,Smartphone,Networking,58,13,3.2,3224
+2016-03-11,Smartphone,Mobile Devices,617,8,3.6,4565
+2016-03-12,Laptop,Computers,386,50,1.7,4250
+2016-03-13,Laptop,Accessories,835,8,2.3,9756
+2016-03-14,Router,Networking,338,26,1.5,4291
+2016-03-15,Router,Networking,352,17,2.3,4414
+2016-03-16,Headphones,Accessories,220,2,3.3,8771
+2016-03-17,Smartphone,Audio & Video,952,27,2.3,6346
+2016-03-18,Keyboard,Mobile Devices,293,50,3.4,3989
+2016-03-19,Tablet,Networking,323,31,1.4,7615
+2016-03-20,Smartwatch,Mobile Devices,258,14,2.3,4660
+2016-03-21,Drone,Computers,724,24,3.4,6654
+2016-03-22,Router,Mobile Devices,445,32,1.0,8980
+2016-03-23,Monitor,Audio & Video,872,10,4.4,9261
+2016-03-24,Smartwatch,Accessories,959,15,2.2,5683
+2016-03-25,Drone,Mobile Devices,805,36,1.7,4196
+2016-03-26,Headphones,Networking,689,36,2.4,7725
+2016-03-27,Monitor,Networking,991,11,2.9,5816
+2016-03-28,Router,Computers,524,41,2.3,5900
+2016-03-29,Camera,Networking,703,17,3.2,6479
+2016-03-30,Tablet,Accessories,58,38,2.6,5421
+2016-03-31,Camera,Accessories,939,29,3.4,8725
+2016-04-01,Smartwatch,Computers,905,41,4.8,2037
+2016-04-02,Smartphone,Accessories,470,37,3.2,7011
+2016-04-03,Smartwatch,Audio & Video,87,44,4.1,3449
+2016-04-04,Monitor,Computers,33,2,2.0,6199
+2016-04-05,Smartwatch,Audio & Video,908,21,4.8,8532
+2016-04-06,Smartwatch,Mobile Devices,117,37,4.3,9488
+2016-04-07,Laptop,Mobile Devices,243,3,1.6,3184
+2016-04-08,Monitor,Accessories,37,20,4.4,6622
+2016-04-09,Tablet,Computers,672,28,3.3,8140
+2016-04-10,Smartphone,Accessories,393,20,2.9,4132
+2016-04-11,Drone,Audio & Video,204,18,3.0,4099
+2016-04-12,Drone,Networking,713,39,2.1,2531
+2016-04-13,Monitor,Audio & Video,169,40,1.1,3987
+2016-04-14,Router,Computers,764,29,3.3,5271
+2016-04-15,Headphones,Mobile Devices,48,47,2.1,9827
+2016-04-16,Laptop,Networking,880,42,1.8,9364
+2016-04-17,Headphones,Accessories,494,50,1.6,3444
+2016-04-18,Laptop,Networking,946,22,2.7,9879
+2016-04-19,Smartwatch,Mobile Devices,185,43,4.1,5848
+2016-04-20,Smartwatch,Mobile Devices,915,14,2.8,5937
+2016-04-21,Smartphone,Computers,64,45,4.3,8337
+2016-04-22,Tablet,Mobile Devices,583,37,2.4,6675
+2016-04-23,Tablet,Accessories,142,45,3.5,9175
+2016-04-24,Keyboard,Audio & Video,75,9,1.7,3219
+2016-04-25,Tablet,Computers,154,6,3.3,5537
+2016-04-26,Keyboard,Computers,897,38,1.8,5074
+2016-04-27,Camera,Mobile Devices,495,10,2.1,4378
+2016-04-28,Tablet,Mobile Devices,335,9,4.4,6151
+2016-04-29,Tablet,Audio & Video,943,41,2.7,7193
+2016-04-30,Smartphone,Mobile Devices,242,14,2.1,5389
+2016-05-01,Router,Networking,517,8,3.1,8491
+2016-05-02,Smartphone,Networking,345,39,4.1,7752
+2016-05-03,Camera,Audio & Video,311,44,4.0,4443
+2016-05-04,Router,Computers,884,39,1.2,7149
+2016-05-05,Headphones,Computers,708,50,5.0,3356
+2016-05-06,Smartphone,Computers,103,10,2.4,7169
+2016-05-07,Smartphone,Networking,570,16,2.4,6584
+2016-05-08,Camera,Audio & Video,156,50,2.1,5689
+2016-05-09,Drone,Networking,842,2,4.0,2058
+2016-05-10,Smartphone,Mobile Devices,716,25,1.5,2818
+2016-05-11,Smartphone,Computers,226,49,3.1,6601
+2016-05-12,Router,Networking,312,3,1.1,9014
+2016-05-13,Drone,Networking,453,31,3.4,3079
+2016-05-14,Router,Audio & Video,717,28,2.5,4086
+2016-05-15,Monitor,Audio & Video,805,3,1.8,9711
+2016-05-16,Tablet,Networking,182,9,4.9,2830
+2016-05-17,Smartphone,Mobile Devices,463,33,4.8,7010
+2016-05-18,Drone,Computers,333,19,4.6,2557
+2016-05-19,Headphones,Accessories,480,8,3.3,9027
+2016-05-20,Monitor,Networking,687,8,1.2,4940
+2016-05-21,Router,Mobile Devices,811,23,3.2,2888
+2016-05-22,Smartwatch,Mobile Devices,917,41,5.0,5316
+2016-05-23,Smartphone,Audio & Video,359,12,1.5,5630
+2016-05-24,Laptop,Networking,675,24,3.9,8177
+2016-05-25,Keyboard,Networking,181,19,1.4,9693
+2016-05-26,Smartwatch,Networking,991,43,3.1,3864
+2016-05-27,Tablet,Mobile Devices,779,3,4.3,8661
+2016-05-28,Keyboard,Computers,68,26,3.1,4641
+2016-05-29,Router,Computers,460,24,3.9,4955
+2016-05-30,Monitor,Accessories,561,47,2.6,7477
+2016-05-31,Laptop,Mobile Devices,114,24,2.3,2633
+2016-06-01,Laptop,Computers,45,29,1.6,3877
+2016-06-02,Smartwatch,Audio & Video,351,22,2.7,5947
+2016-06-03,Smartwatch,Computers,491,13,2.7,9601
+2016-06-04,Router,Mobile Devices,280,20,4.6,9151
+2016-06-05,Headphones,Mobile Devices,915,13,4.9,3961
+2016-06-06,Laptop,Computers,63,4,3.1,6228
+2016-06-07,Smartwatch,Computers,572,41,2.4,6751
+2016-06-08,Tablet,Audio & Video,635,7,3.3,5490
+2016-06-09,Headphones,Mobile Devices,184,7,2.6,9391
+2016-06-10,Smartwatch,Mobile Devices,728,38,4.8,4382
+2016-06-11,Headphones,Networking,565,15,1.9,7155
+2016-06-12,Router,Accessories,395,45,2.1,3799
+2016-06-13,Monitor,Networking,233,37,3.2,4108
+2016-06-14,Drone,Accessories,566,49,4.2,6479
+2016-06-15,Headphones,Mobile Devices,330,44,4.2,2544
+2016-06-16,Router,Mobile Devices,573,41,1.9,9796
+2016-06-17,Laptop,Networking,990,4,2.5,8337
+2016-06-18,Monitor,Accessories,846,5,3.1,6810
+2016-06-19,Laptop,Networking,427,11,4.4,2647
+2016-06-20,Router,Mobile Devices,94,4,2.9,4801
+2016-06-21,Monitor,Audio & Video,290,16,1.2,2433
+2016-06-22,Camera,Audio & Video,540,44,4.4,5615
+2016-06-23,Camera,Accessories,255,20,3.5,6198
+2016-06-24,Camera,Audio & Video,228,23,1.5,2514
+2016-06-25,Drone,Accessories,552,10,2.5,7519
+2016-06-26,Monitor,Mobile Devices,750,30,2.7,8662
+2016-06-27,Smartphone,Audio & Video,137,28,2.7,3541
+2016-06-28,Keyboard,Mobile Devices,770,37,3.2,4827
+2016-06-29,Laptop,Mobile Devices,538,7,2.8,4653
+2016-06-30,Laptop,Accessories,892,11,1.1,7875
+2016-07-01,Smartwatch,Audio & Video,870,50,4.3,7435
+2016-07-02,Router,Networking,287,33,2.0,8339
+2016-07-03,Drone,Networking,878,24,1.2,3025
+2016-07-04,Monitor,Mobile Devices,148,46,3.7,4803
+2016-07-05,Laptop,Computers,184,12,1.3,5361
+2016-07-06,Tablet,Mobile Devices,851,5,1.9,2669
+2016-07-07,Smartphone,Networking,224,22,3.2,9368
+2016-07-08,Drone,Accessories,349,42,2.5,7516
+2016-07-09,Monitor,Accessories,700,20,1.5,5489
+2016-07-10,Keyboard,Networking,435,14,1.8,3776
+2016-07-11,Camera,Accessories,55,44,4.2,5509
+2016-07-12,Camera,Mobile Devices,241,47,3.5,5582
+2016-07-13,Laptop,Networking,404,25,1.3,3159
+2016-07-14,Smartwatch,Audio & Video,460,46,1.8,9863
+2016-07-15,Headphones,Mobile Devices,468,30,3.8,7514
+2016-07-16,Tablet,Audio & Video,426,43,1.3,8389
+2016-07-17,Drone,Audio & Video,28,26,1.7,5684
+2016-07-18,Router,Networking,265,28,3.7,5419
+2016-07-19,Tablet,Mobile Devices,372,17,2.6,3472
+2016-07-20,Smartphone,Computers,372,1,4.7,4600
+2016-07-21,Laptop,Audio & Video,496,10,4.4,3887
+2016-07-22,Drone,Mobile Devices,115,44,4.4,4393
+2016-07-23,Camera,Audio & Video,516,27,2.4,4832
+2016-07-24,Tablet,Networking,624,9,4.6,6101
+2016-07-25,Headphones,Mobile Devices,157,35,3.6,9481
+2016-07-26,Smartwatch,Audio & Video,873,29,1.2,8401
+2016-07-27,Smartwatch,Computers,695,45,2.8,3660
+2016-07-28,Smartphone,Computers,171,48,2.9,7941
+2016-07-29,Headphones,Computers,114,33,2.9,2106
+2016-07-30,Router,Networking,916,42,2.0,9199
+2016-07-31,Laptop,Networking,401,35,3.8,3568
+2016-08-01,Smartwatch,Audio & Video,474,45,2.3,2468
+2016-08-02,Smartphone,Audio & Video,917,14,4.8,4961
+2016-08-03,Router,Audio & Video,359,37,3.9,9977
+2016-08-04,Smartphone,Audio & Video,910,24,1.5,5555
+2016-08-05,Tablet,Computers,782,16,3.3,3442
+2016-08-06,Headphones,Computers,188,40,1.1,5942
+2016-08-07,Smartphone,Networking,835,7,3.0,6921
+2016-08-08,Laptop,Mobile Devices,778,2,4.9,8458
+2016-08-09,Tablet,Networking,97,37,4.5,7203
+2016-08-10,Laptop,Computers,180,38,1.3,9318
+2016-08-11,Router,Networking,469,36,2.6,4626
+2016-08-12,Smartphone,Computers,243,44,5.0,5712
+2016-08-13,Headphones,Audio & Video,265,26,2.4,5426
+2016-08-14,Drone,Mobile Devices,96,5,2.4,7870
+2016-08-15,Smartphone,Networking,148,3,4.5,8211
+2016-08-16,Drone,Audio & Video,742,8,4.0,8158
+2016-08-17,Monitor,Networking,510,20,1.3,4627
+2016-08-18,Router,Accessories,496,30,1.6,4384
+2016-08-19,Camera,Mobile Devices,510,49,3.9,2244
+2016-08-20,Camera,Networking,985,35,4.6,7703
+2016-08-21,Headphones,Accessories,823,44,2.2,9631
+2016-08-22,Camera,Computers,247,11,4.7,8295
+2016-08-23,Drone,Audio & Video,244,2,2.8,3757
+2016-08-24,Keyboard,Accessories,58,29,5.0,6053
+2016-08-25,Drone,Accessories,625,42,3.8,7393
+2016-08-26,Tablet,Computers,384,2,4.9,2091
+2016-08-27,Tablet,Computers,840,20,3.2,2605
+2016-08-28,Laptop,Computers,763,46,2.4,6128
+2016-08-29,Tablet,Audio & Video,382,40,4.5,5667
+2016-08-30,Tablet,Networking,746,30,2.8,9055
+2016-08-31,Camera,Accessories,356,12,2.7,8562
+2016-09-01,Smartwatch,Accessories,318,38,2.9,3216
+2016-09-02,Laptop,Accessories,69,14,3.8,4543
+2016-09-03,Monitor,Accessories,249,13,2.0,2772
+2016-09-04,Router,Accessories,239,4,4.8,8473
+2016-09-05,Camera,Computers,711,8,4.0,6320
+2016-09-06,Smartphone,Accessories,866,15,4.7,3529
+2016-09-07,Smartphone,Computers,61,24,3.7,4274
+2016-09-08,Monitor,Computers,240,20,3.7,6901
+2016-09-09,Keyboard,Mobile Devices,164,2,1.6,3610
+2016-09-10,Smartwatch,Computers,164,7,4.2,4472
+2016-09-11,Smartwatch,Accessories,161,31,3.8,4934
+2016-09-12,Router,Mobile Devices,831,15,4.8,3131
+2016-09-13,Camera,Mobile Devices,200,18,1.5,6188
+2016-09-14,Monitor,Audio & Video,159,20,3.8,8265
+2016-09-15,Laptop,Accessories,737,23,2.2,4773
+2016-09-16,Router,Accessories,529,33,2.2,4546
+2016-09-17,Smartwatch,Audio & Video,885,9,3.3,6310
+2016-09-18,Monitor,Computers,479,41,4.4,5086
+2016-09-19,Smartphone,Networking,741,34,3.4,2687
+2016-09-20,Smartwatch,Audio & Video,738,13,4.6,9658
+2016-09-21,Tablet,Mobile Devices,160,17,2.2,2744
+2016-09-22,Smartwatch,Accessories,758,19,1.9,3579
+2016-09-23,Laptop,Computers,998,16,1.6,8211
+2016-09-24,Drone,Accessories,976,16,1.1,6402
+2016-09-25,Tablet,Computers,431,20,4.9,9256
+2016-09-26,Keyboard,Computers,238,32,1.4,6380
+2016-09-27,Monitor,Audio & Video,749,2,2.7,4792
+2016-09-28,Drone,Accessories,589,19,4.3,7401
+2016-09-29,Keyboard,Networking,783,45,3.1,8578
+2016-09-30,Tablet,Mobile Devices,703,33,4.3,9597
+2016-10-01,Monitor,Mobile Devices,290,26,1.5,6414
+2016-10-02,Monitor,Mobile Devices,773,22,4.2,8175
+2016-10-03,Drone,Audio & Video,148,38,1.1,6257
+2016-10-04,Laptop,Networking,484,42,3.4,9705
+2016-10-05,Keyboard,Audio & Video,784,10,4.6,7192
+2016-10-06,Keyboard,Computers,584,19,3.3,5299
+2016-10-07,Keyboard,Accessories,774,42,1.6,8422
+2016-10-08,Tablet,Computers,858,41,4.7,3213
+2016-10-09,Drone,Audio & Video,75,10,2.4,9527
+2016-10-10,Keyboard,Mobile Devices,20,35,4.7,8006
+2016-10-11,Router,Audio & Video,533,17,4.0,3667
+2016-10-12,Smartwatch,Networking,998,16,2.8,5386
+2016-10-13,Smartphone,Computers,992,20,4.1,8091
+2016-10-14,Laptop,Accessories,644,20,3.5,7737
+2016-10-15,Camera,Networking,496,18,3.5,9447
+2016-10-16,Laptop,Audio & Video,197,38,1.8,5274
+2016-10-17,Headphones,Mobile Devices,833,46,2.6,4554
+2016-10-18,Smartwatch,Networking,953,15,3.2,4965
+2016-10-19,Monitor,Mobile Devices,530,45,1.7,8344
+2016-10-20,Camera,Accessories,308,41,4.8,8427
+2016-10-21,Headphones,Networking,562,23,3.2,6498
+2016-10-22,Laptop,Audio & Video,816,25,4.3,5925
+2016-10-23,Drone,Audio & Video,361,49,4.7,8214
+2016-10-24,Router,Mobile Devices,273,31,4.1,9836
+2016-10-25,Router,Networking,496,8,2.8,8834
+2016-10-26,Drone,Accessories,296,9,4.4,8508
+2016-10-27,Tablet,Mobile Devices,933,23,4.2,8166
+2016-10-28,Monitor,Audio & Video,237,3,2.2,7775
+2016-10-29,Keyboard,Audio & Video,524,14,1.5,9402
+2016-10-30,Laptop,Audio & Video,276,30,1.2,8247
+2016-10-31,Smartphone,Networking,198,40,2.0,2140
+2016-11-01,Smartphone,Mobile Devices,754,21,1.8,6026
+2016-11-02,Monitor,Computers,85,9,4.0,4444
+2016-11-03,Router,Audio & Video,809,20,1.7,8776
+2016-11-04,Smartphone,Mobile Devices,817,3,4.6,7321
+2016-11-05,Router,Accessories,392,49,2.6,5535
+2016-11-06,Smartwatch,Accessories,531,31,3.8,7637
+2016-11-07,Camera,Audio & Video,440,25,4.0,8145
+2016-11-08,Smartwatch,Networking,762,9,4.0,6709
+2016-11-09,Router,Networking,576,40,1.4,9949
+2016-11-10,Smartphone,Networking,31,18,2.1,8517
+2016-11-11,Headphones,Audio & Video,183,39,4.2,6125
+2016-11-12,Headphones,Audio & Video,87,41,3.2,6777
+2016-11-13,Smartphone,Mobile Devices,677,44,4.8,2992
+2016-11-14,Keyboard,Networking,345,17,2.2,4194
+2016-11-15,Smartwatch,Audio & Video,146,22,4.3,2083
+2016-11-16,Smartwatch,Accessories,204,14,3.4,2567
+2016-11-17,Laptop,Computers,975,19,3.0,7906
+2016-11-18,Smartwatch,Computers,331,8,2.2,6686
+2016-11-19,Drone,Networking,426,35,2.2,3920
+2016-11-20,Router,Networking,224,8,4.4,5075
+2016-11-21,Tablet,Mobile Devices,948,10,3.5,5614
+2016-11-22,Camera,Accessories,815,9,4.3,8439
+2016-11-23,Laptop,Accessories,225,38,1.5,7896
+2016-11-24,Monitor,Audio & Video,726,5,2.8,6662
+2016-11-25,Camera,Mobile Devices,125,42,4.0,3716
+2016-11-26,Headphones,Accessories,592,35,3.7,5370
+2016-11-27,Tablet,Mobile Devices,334,31,3.5,4812
+2016-11-28,Smartphone,Mobile Devices,913,48,2.8,8324
+2016-11-29,Smartphone,Accessories,413,25,3.3,9538
+2016-11-30,Headphones,Audio & Video,428,41,2.9,7689
+2016-12-01,Smartphone,Accessories,374,13,1.1,6782
+2016-12-02,Camera,Networking,548,3,2.6,5457
+2016-12-03,Drone,Networking,881,39,3.0,4867
+2016-12-04,Laptop,Audio & Video,176,5,4.8,4832
+2016-12-05,Smartwatch,Audio & Video,270,43,3.9,9491
+2016-12-06,Keyboard,Mobile Devices,430,23,2.8,9148
+2016-12-07,Router,Mobile Devices,789,46,3.5,2677
+2016-12-08,Router,Networking,746,26,4.3,4390
+2016-12-09,Laptop,Networking,99,17,1.1,4106
+2016-12-10,Tablet,Networking,60,48,2.8,9740
+2016-12-11,Smartphone,Computers,428,39,1.2,3281
+2016-12-12,Smartphone,Audio & Video,879,22,3.4,6865
+2016-12-13,Drone,Networking,33,28,4.6,2511
+2016-12-14,Drone,Networking,130,4,1.5,3144
+2016-12-15,Smartphone,Computers,246,1,1.9,4322
+2016-12-16,Laptop,Computers,457,13,4.7,4757
+2016-12-17,Smartwatch,Mobile Devices,771,23,3.6,7915
+2016-12-18,Headphones,Audio & Video,630,19,2.3,3461
+2016-12-19,Smartphone,Accessories,678,30,3.9,7549
+2016-12-20,Smartwatch,Audio & Video,663,18,4.4,3930
+2016-12-21,Monitor,Networking,154,12,2.1,8678
+2016-12-22,Headphones,Audio & Video,466,35,3.8,4745
+2016-12-23,Tablet,Networking,864,42,1.6,4361
+2016-12-24,Smartphone,Audio & Video,336,36,2.2,9313
+2016-12-25,Smartwatch,Mobile Devices,444,35,1.7,3915
+2016-12-26,Monitor,Accessories,490,24,3.3,8387
+2016-12-27,Keyboard,Audio & Video,422,11,3.8,5893
+2016-12-28,Keyboard,Computers,267,6,1.2,3939
+2016-12-29,Keyboard,Audio & Video,944,27,2.5,6094
+2016-12-30,Smartphone,Networking,738,22,1.6,9907
+2016-12-31,Smartwatch,Computers,960,48,4.6,7208
+2017-01-01,Tablet,Networking,689,35,2.5,7022
+2017-01-02,Tablet,Computers,451,18,2.1,2373
+2017-01-03,Headphones,Mobile Devices,428,30,4.3,8629
+2017-01-04,Keyboard,Computers,901,39,3.6,3824
+2017-01-05,Drone,Mobile Devices,763,3,1.6,2034
+2017-01-06,Monitor,Mobile Devices,170,31,4.1,5833
+2017-01-07,Drone,Computers,639,3,3.7,3340
+2017-01-08,Tablet,Computers,642,15,2.9,6417
+2017-01-09,Router,Audio & Video,651,21,1.7,5438
+2017-01-10,Drone,Networking,972,31,3.9,2672
+2017-01-11,Smartphone,Computers,720,21,4.5,5683
+2017-01-12,Headphones,Computers,198,27,3.2,6730
+2017-01-13,Smartphone,Networking,209,42,2.9,8986
+2017-01-14,Monitor,Accessories,623,2,3.9,3667
+2017-01-15,Tablet,Computers,218,49,1.3,6848
+2017-01-16,Smartphone,Accessories,713,21,1.5,2209
+2017-01-17,Headphones,Networking,426,10,4.4,8383
+2017-01-18,Router,Audio & Video,65,32,4.5,4254
+2017-01-19,Smartwatch,Mobile Devices,970,11,1.4,3242
+2017-01-20,Tablet,Audio & Video,311,2,1.2,2003
+2017-01-21,Smartphone,Networking,646,16,4.9,2164
+2017-01-22,Router,Mobile Devices,842,47,2.3,2641
+2017-01-23,Smartwatch,Audio & Video,850,17,2.7,5555
+2017-01-24,Drone,Accessories,366,23,4.2,3895
+2017-01-25,Router,Audio & Video,683,20,2.4,4382
+2017-01-26,Camera,Mobile Devices,207,2,3.5,5636
+2017-01-27,Router,Networking,297,4,4.6,7673
+2017-01-28,Tablet,Mobile Devices,668,48,2.1,9927
+2017-01-29,Smartphone,Networking,525,14,3.3,8343
+2017-01-30,Tablet,Networking,703,8,2.9,8420
+2017-01-31,Monitor,Networking,581,11,1.0,9408
+2017-02-01,Tablet,Mobile Devices,180,26,2.9,2256
+2017-02-02,Keyboard,Networking,255,12,3.5,8559
+2017-02-03,Keyboard,Networking,362,50,2.7,4295
+2017-02-04,Camera,Computers,711,48,2.5,4590
+2017-02-05,Keyboard,Networking,401,47,2.9,9297
+2017-02-06,Drone,Mobile Devices,410,49,1.8,9162
+2017-02-07,Smartphone,Accessories,896,26,2.7,8057
+2017-02-08,Monitor,Computers,372,47,1.1,7863
+2017-02-09,Headphones,Computers,165,20,2.4,4676
+2017-02-10,Smartwatch,Audio & Video,565,50,4.4,7399
+2017-02-11,Tablet,Accessories,595,46,4.4,3319
+2017-02-12,Monitor,Audio & Video,281,2,2.0,2939
+2017-02-13,Keyboard,Accessories,735,39,2.9,2971
+2017-02-14,Headphones,Mobile Devices,241,45,4.6,7595
+2017-02-15,Router,Computers,416,21,4.4,9431
+2017-02-16,Camera,Audio & Video,574,39,1.5,6787
+2017-02-17,Smartwatch,Audio & Video,300,24,1.6,8777
+2017-02-18,Headphones,Computers,171,27,1.6,6367
+2017-02-19,Headphones,Computers,942,39,1.4,8868
+2017-02-20,Smartphone,Audio & Video,182,37,2.0,5419
+2017-02-21,Drone,Computers,486,43,3.5,7665
+2017-02-22,Camera,Networking,876,30,4.7,2909
+2017-02-23,Laptop,Accessories,268,29,4.7,8044
+2017-02-24,Drone,Networking,143,46,2.3,9496
+2017-02-25,Laptop,Audio & Video,98,16,1.9,6050
+2017-02-26,Headphones,Mobile Devices,365,20,3.5,2550
+2017-02-27,Smartphone,Mobile Devices,396,2,1.9,3504
+2017-02-28,Tablet,Networking,499,33,3.1,5940
+2017-03-01,Monitor,Computers,994,36,1.8,9033
+2017-03-02,Smartphone,Networking,591,50,2.8,7096
+2017-03-03,Headphones,Computers,917,24,2.6,5760
+2017-03-04,Router,Computers,473,37,4.7,2757
+2017-03-05,Keyboard,Accessories,376,11,1.0,3073
+2017-03-06,Laptop,Accessories,773,8,3.1,8387
+2017-03-07,Smartwatch,Mobile Devices,338,2,4.7,3421
+2017-03-08,Smartphone,Mobile Devices,661,5,1.5,4084
+2017-03-09,Keyboard,Computers,310,39,3.9,9210
+2017-03-10,Router,Networking,95,2,3.1,7356
+2017-03-11,Monitor,Computers,440,3,1.8,9213
+2017-03-12,Drone,Audio & Video,583,15,4.7,8764
+2017-03-13,Tablet,Networking,759,25,1.5,5511
+2017-03-14,Smartphone,Computers,50,16,1.9,6476
+2017-03-15,Drone,Networking,583,6,3.8,4895
+2017-03-16,Keyboard,Mobile Devices,151,13,3.3,4266
+2017-03-17,Tablet,Accessories,149,12,1.3,4183
+2017-03-18,Headphones,Audio & Video,405,31,2.2,9026
+2017-03-19,Camera,Mobile Devices,679,23,1.5,7876
+2017-03-20,Router,Networking,384,10,3.3,5575
+2017-03-21,Monitor,Mobile Devices,561,38,2.5,3872
+2017-03-22,Drone,Computers,602,41,3.4,6733
+2017-03-23,Tablet,Accessories,126,15,3.8,5301
+2017-03-24,Tablet,Accessories,885,35,2.5,6611
+2017-03-25,Monitor,Mobile Devices,556,22,4.6,7433
+2017-03-26,Drone,Mobile Devices,901,20,3.7,7847
+2017-03-27,Tablet,Networking,646,42,3.6,2152
+2017-03-28,Keyboard,Networking,317,29,3.3,8249
+2017-03-29,Keyboard,Networking,184,13,2.4,3875
+2017-03-30,Headphones,Computers,767,17,4.9,5480
+2017-03-31,Monitor,Mobile Devices,614,22,1.5,4946
+2017-04-01,Router,Accessories,781,8,1.6,5933
+2017-04-02,Monitor,Computers,783,14,4.8,9661
+2017-04-03,Monitor,Mobile Devices,545,26,3.8,4543
+2017-04-04,Keyboard,Networking,836,3,3.9,9502
+2017-04-05,Drone,Mobile Devices,797,46,2.4,2045
+2017-04-06,Smartwatch,Mobile Devices,106,3,5.0,5608
+2017-04-07,Drone,Accessories,714,30,4.7,3348
+2017-04-08,Camera,Networking,23,2,1.5,3872
+2017-04-09,Smartphone,Accessories,283,8,2.9,2797
+2017-04-10,Drone,Accessories,314,2,1.9,9748
+2017-04-11,Laptop,Networking,827,49,4.6,2197
+2017-04-12,Router,Accessories,703,45,4.0,3134
+2017-04-13,Keyboard,Audio & Video,851,43,4.4,2157
+2017-04-14,Tablet,Networking,205,34,5.0,6568
+2017-04-15,Smartphone,Networking,20,13,1.7,6125
+2017-04-16,Drone,Accessories,106,29,3.6,7668
+2017-04-17,Router,Audio & Video,808,27,1.5,7946
+2017-04-18,Smartwatch,Networking,421,29,2.4,2059
+2017-04-19,Monitor,Audio & Video,263,11,3.7,5773
+2017-04-20,Router,Networking,683,16,4.7,8398
+2017-04-21,Router,Accessories,66,44,4.2,6417
+2017-04-22,Router,Mobile Devices,681,3,1.0,7201
+2017-04-23,Smartwatch,Networking,197,14,3.0,6754
+2017-04-24,Monitor,Computers,894,22,4.8,5917
+2017-04-25,Keyboard,Audio & Video,809,47,4.9,7258
+2017-04-26,Monitor,Audio & Video,131,44,1.7,5967
+2017-04-27,Keyboard,Computers,857,5,1.7,5386
+2017-04-28,Smartwatch,Accessories,74,44,2.6,7128
+2017-04-29,Camera,Mobile Devices,411,30,4.3,3895
+2017-04-30,Headphones,Computers,955,38,3.0,8559
+2017-05-01,Tablet,Computers,228,24,3.1,6745
+2017-05-02,Headphones,Audio & Video,971,46,2.4,9447
+2017-05-03,Headphones,Mobile Devices,660,10,2.8,8220
+2017-05-04,Laptop,Mobile Devices,234,44,1.1,3304
+2017-05-05,Laptop,Networking,653,5,3.0,5156
+2017-05-06,Smartphone,Networking,326,25,4.8,7395
+2017-05-07,Drone,Mobile Devices,313,38,3.0,3595
+2017-05-08,Tablet,Computers,497,38,2.4,9948
+2017-05-09,Router,Accessories,727,49,4.5,8043
+2017-05-10,Laptop,Networking,402,9,3.0,3277
+2017-05-11,Camera,Mobile Devices,306,13,2.2,9700
+2017-05-12,Monitor,Computers,181,10,2.3,2049
+2017-05-13,Smartwatch,Audio & Video,167,5,4.7,8224
+2017-05-14,Keyboard,Mobile Devices,902,8,4.2,7161
+2017-05-15,Camera,Accessories,567,39,4.9,2766
+2017-05-16,Drone,Mobile Devices,475,24,1.7,8241
+2017-05-17,Monitor,Computers,748,45,4.4,8358
+2017-05-18,Camera,Mobile Devices,165,2,2.0,5423
+2017-05-19,Tablet,Mobile Devices,191,18,3.1,9804
+2017-05-20,Router,Audio & Video,901,23,4.8,3851
+2017-05-21,Router,Networking,387,39,2.8,4504
+2017-05-22,Tablet,Networking,435,31,2.2,3583
+2017-05-23,Router,Mobile Devices,857,36,1.1,8953
+2017-05-24,Drone,Computers,415,39,1.2,3363
+2017-05-25,Smartphone,Mobile Devices,993,31,4.5,6964
+2017-05-26,Tablet,Audio & Video,353,49,2.2,3842
+2017-05-27,Laptop,Computers,809,8,4.8,8983
+2017-05-28,Camera,Audio & Video,128,39,2.2,2176
+2017-05-29,Smartphone,Mobile Devices,611,33,3.2,2404
+2017-05-30,Smartwatch,Computers,87,37,1.5,5820
+2017-05-31,Camera,Audio & Video,163,13,2.5,8488
+2017-06-01,Tablet,Mobile Devices,351,10,4.8,8706
+2017-06-02,Smartwatch,Networking,938,9,4.8,8494
+2017-06-03,Camera,Computers,545,25,1.3,5823
+2017-06-04,Laptop,Computers,183,27,3.9,2296
+2017-06-05,Keyboard,Networking,450,28,2.9,4658
+2017-06-06,Headphones,Accessories,974,31,4.2,9003
+2017-06-07,Monitor,Audio & Video,200,35,3.1,9733
+2017-06-08,Smartphone,Accessories,341,24,4.0,9044
+2017-06-09,Smartwatch,Audio & Video,506,5,4.0,9442
+2017-06-10,Smartwatch,Computers,483,19,3.5,3747
+2017-06-11,Camera,Accessories,368,42,1.9,3377
+2017-06-12,Keyboard,Computers,300,6,4.9,7629
+2017-06-13,Router,Networking,534,34,3.1,8466
+2017-06-14,Camera,Computers,153,9,4.0,8298
+2017-06-15,Smartphone,Mobile Devices,546,5,1.0,3199
+2017-06-16,Monitor,Accessories,891,28,1.8,4645
+2017-06-17,Router,Accessories,559,33,1.3,8501
+2017-06-18,Headphones,Computers,259,29,1.7,6047
+2017-06-19,Smartphone,Computers,875,37,3.9,2936
+2017-06-20,Router,Audio & Video,425,42,4.3,9762
+2017-06-21,Tablet,Accessories,298,24,1.4,9344
+2017-06-22,Keyboard,Networking,239,9,4.6,6833
+2017-06-23,Laptop,Accessories,634,34,4.3,5962
+2017-06-24,Camera,Mobile Devices,409,23,1.7,6863
+2017-06-25,Keyboard,Computers,437,35,2.9,3572
+2017-06-26,Smartphone,Audio & Video,369,2,3.5,9285
+2017-06-27,Smartphone,Audio & Video,452,22,4.8,4663
+2017-06-28,Smartwatch,Audio & Video,985,34,3.9,9277
+2017-06-29,Smartphone,Audio & Video,797,31,2.0,4088
+2017-06-30,Smartwatch,Audio & Video,722,3,2.3,2473
+2017-07-01,Monitor,Computers,71,22,1.4,6341
+2017-07-02,Smartphone,Mobile Devices,399,31,1.3,4543
+2017-07-03,Smartwatch,Accessories,916,14,3.0,6637
+2017-07-04,Keyboard,Accessories,363,44,4.9,9247
+2017-07-05,Smartwatch,Audio & Video,431,16,4.8,3419
+2017-07-06,Smartwatch,Computers,847,20,3.4,7945
+2017-07-07,Monitor,Networking,452,50,3.7,5322
+2017-07-08,Laptop,Mobile Devices,104,32,3.2,9402
+2017-07-09,Keyboard,Accessories,375,42,4.8,3587
+2017-07-10,Keyboard,Networking,249,42,4.2,9504
+2017-07-11,Keyboard,Networking,712,35,2.2,8986
+2017-07-12,Laptop,Audio & Video,753,49,4.4,7034
+2017-07-13,Smartwatch,Accessories,245,6,2.0,6975
+2017-07-14,Monitor,Computers,802,27,3.6,8091
+2017-07-15,Headphones,Computers,620,13,2.4,3599
+2017-07-16,Smartphone,Computers,323,26,4.8,4254
+2017-07-17,Monitor,Networking,685,46,3.1,2359
+2017-07-18,Keyboard,Mobile Devices,365,6,2.8,6137
+2017-07-19,Smartwatch,Mobile Devices,582,8,4.4,7225
+2017-07-20,Headphones,Networking,824,26,3.5,9612
+2017-07-21,Drone,Networking,481,17,2.9,5649
+2017-07-22,Camera,Audio & Video,537,31,1.5,5033
+2017-07-23,Drone,Mobile Devices,655,11,4.2,8491
+2017-07-24,Keyboard,Audio & Video,545,7,1.9,8145
+2017-07-25,Monitor,Mobile Devices,726,8,3.6,8646
+2017-07-26,Headphones,Computers,573,50,4.4,3037
+2017-07-27,Tablet,Networking,861,11,3.1,4122
+2017-07-28,Monitor,Accessories,932,1,1.5,4260
+2017-07-29,Keyboard,Networking,340,26,3.6,3242
+2017-07-30,Camera,Computers,94,29,1.3,4129
+2017-07-31,Monitor,Networking,420,19,4.2,8455
+2017-08-01,Monitor,Networking,25,43,4.4,3116
+2017-08-02,Laptop,Accessories,925,9,4.9,7295
+2017-08-03,Headphones,Networking,224,14,2.3,4010
+2017-08-04,Drone,Networking,427,31,4.8,8429
+2017-08-05,Headphones,Accessories,658,24,4.2,2738
+2017-08-06,Laptop,Computers,664,3,4.5,5957
+2017-08-07,Camera,Mobile Devices,439,32,2.6,6148
+2017-08-08,Keyboard,Audio & Video,265,50,4.2,2627
+2017-08-09,Tablet,Computers,801,21,4.6,7200
+2017-08-10,Camera,Computers,944,26,1.0,7545
+2017-08-11,Tablet,Networking,647,16,3.6,8307
+2017-08-12,Drone,Accessories,114,25,4.9,7452
+2017-08-13,Drone,Mobile Devices,743,37,3.0,2482
+2017-08-14,Smartwatch,Mobile Devices,909,29,2.1,9153
+2017-08-15,Tablet,Accessories,583,33,4.2,4971
+2017-08-16,Monitor,Mobile Devices,606,46,4.8,8378
+2017-08-17,Laptop,Networking,222,40,3.2,7364
+2017-08-18,Headphones,Mobile Devices,770,50,2.5,5699
+2017-08-19,Router,Mobile Devices,536,37,4.6,4792
+2017-08-20,Smartphone,Accessories,183,31,3.1,3245
+2017-08-21,Monitor,Networking,988,32,2.9,5270
+2017-08-22,Keyboard,Computers,822,26,3.5,7439
+2017-08-23,Keyboard,Mobile Devices,595,5,2.9,9036
+2017-08-24,Headphones,Audio & Video,654,41,3.0,5700
+2017-08-25,Drone,Mobile Devices,752,26,1.0,2978
+2017-08-26,Headphones,Audio & Video,685,4,2.6,6687
+2017-08-27,Tablet,Computers,865,19,3.4,3064
+2017-08-28,Camera,Mobile Devices,197,24,4.4,8519
+2017-08-29,Router,Audio & Video,308,39,1.5,4486
+2017-08-30,Monitor,Computers,244,29,3.4,5931
+2017-08-31,Router,Networking,948,15,3.4,3591
+2017-09-01,Monitor,Mobile Devices,526,45,1.6,6112
+2017-09-02,Smartwatch,Computers,505,13,2.3,5325
+2017-09-03,Camera,Computers,803,46,1.0,6411
+2017-09-04,Camera,Audio & Video,145,4,1.3,8743
+2017-09-05,Laptop,Mobile Devices,979,30,2.2,2256
+2017-09-06,Laptop,Networking,176,3,1.8,4004
+2017-09-07,Keyboard,Audio & Video,355,27,3.9,7453
+2017-09-08,Tablet,Audio & Video,316,45,4.3,7907
+2017-09-09,Camera,Mobile Devices,888,33,4.3,9385
+2017-09-10,Laptop,Audio & Video,660,5,3.9,5048
+2017-09-11,Tablet,Audio & Video,731,9,2.3,6783
+2017-09-12,Camera,Accessories,120,7,1.4,3038
+2017-09-13,Router,Mobile Devices,455,30,3.2,8268
+2017-09-14,Router,Audio & Video,200,15,4.6,6749
+2017-09-15,Tablet,Mobile Devices,164,20,2.3,8500
+2017-09-16,Smartwatch,Accessories,536,11,1.4,9472
+2017-09-17,Laptop,Mobile Devices,838,45,3.8,4146
+2017-09-18,Headphones,Networking,771,1,4.9,9190
+2017-09-19,Monitor,Accessories,452,7,1.5,5692
+2017-09-20,Smartphone,Computers,268,21,1.5,6999
+2017-09-21,Smartwatch,Networking,292,12,2.2,7916
+2017-09-22,Laptop,Accessories,589,26,1.6,6579
+2017-09-23,Drone,Mobile Devices,421,11,3.7,3367
+2017-09-24,Drone,Audio & Video,249,12,3.8,8997
+2017-09-25,Laptop,Accessories,916,30,4.3,8301
+2017-09-26,Laptop,Computers,880,5,1.4,8036
+2017-09-27,Laptop,Accessories,849,14,3.7,9759
+2017-09-28,Drone,Mobile Devices,764,15,4.2,9936
+2017-09-29,Headphones,Accessories,595,16,3.5,5365
+2017-09-30,Drone,Audio & Video,42,3,2.1,8724
+2017-10-01,Monitor,Networking,42,42,1.1,3755
+2017-10-02,Tablet,Networking,582,47,3.8,3051
+2017-10-03,Headphones,Computers,874,10,3.1,6738
+2017-10-04,Keyboard,Accessories,964,24,2.1,6734
+2017-10-05,Keyboard,Mobile Devices,599,42,3.0,6841
+2017-10-06,Smartwatch,Networking,143,21,3.6,9957
+2017-10-07,Camera,Audio & Video,355,12,3.0,6877
+2017-10-08,Smartwatch,Accessories,567,9,1.0,2486
+2017-10-09,Router,Networking,690,48,3.9,3495
+2017-10-10,Headphones,Audio & Video,832,9,2.4,5712
+2017-10-11,Router,Networking,246,50,2.4,9081
+2017-10-12,Router,Mobile Devices,695,17,3.5,5065
+2017-10-13,Laptop,Accessories,117,16,1.7,8054
+2017-10-14,Headphones,Networking,913,40,4.5,4818
+2017-10-15,Tablet,Networking,555,38,4.1,5638
+2017-10-16,Monitor,Mobile Devices,639,7,1.2,4380
+2017-10-17,Smartwatch,Audio & Video,382,41,3.0,6153
+2017-10-18,Tablet,Networking,68,26,2.4,5470
+2017-10-19,Monitor,Audio & Video,259,5,3.8,5462
+2017-10-20,Camera,Networking,890,29,1.2,2891
+2017-10-21,Smartwatch,Computers,580,34,3.5,7342
+2017-10-22,Smartphone,Mobile Devices,772,29,3.6,7894
+2017-10-23,Router,Computers,917,50,4.4,5591
+2017-10-24,Laptop,Networking,828,20,3.7,7395
+2017-10-25,Router,Audio & Video,323,7,1.2,6316
+2017-10-26,Monitor,Accessories,477,23,4.5,8001
+2017-10-27,Smartphone,Audio & Video,37,32,4.8,5115
+2017-10-28,Monitor,Computers,422,13,2.7,6180
+2017-10-29,Laptop,Networking,955,20,4.8,5901
+2017-10-30,Monitor,Audio & Video,661,11,3.3,3029
+2017-10-31,Drone,Networking,501,21,1.7,7507
+2017-11-01,Headphones,Accessories,769,38,4.0,4360
+2017-11-02,Smartwatch,Mobile Devices,221,36,1.4,2653
+2017-11-03,Monitor,Computers,164,23,2.5,6725
+2017-11-04,Drone,Audio & Video,945,16,3.6,3023
+2017-11-05,Smartwatch,Computers,294,15,3.1,6850
+2017-11-06,Laptop,Computers,851,13,2.6,6844
+2017-11-07,Monitor,Networking,690,31,3.7,3193
+2017-11-08,Headphones,Accessories,615,30,3.5,4243
+2017-11-09,Camera,Networking,456,20,1.0,4244
+2017-11-10,Tablet,Computers,996,9,2.0,9992
+2017-11-11,Router,Mobile Devices,345,11,3.2,8624
+2017-11-12,Smartphone,Audio & Video,560,7,1.6,6317
+2017-11-13,Keyboard,Accessories,649,33,1.5,6601
+2017-11-14,Smartwatch,Audio & Video,178,22,4.6,8825
+2017-11-15,Laptop,Audio & Video,341,27,4.2,2427
+2017-11-16,Smartwatch,Mobile Devices,855,4,4.6,8834
+2017-11-17,Laptop,Computers,809,4,4.6,4660
+2017-11-18,Smartwatch,Networking,212,29,2.1,7846
+2017-11-19,Camera,Audio & Video,923,32,4.5,2676
+2017-11-20,Drone,Accessories,153,6,4.2,3117
+2017-11-21,Camera,Computers,84,33,2.2,2982
+2017-11-22,Smartwatch,Audio & Video,302,10,4.0,9230
+2017-11-23,Router,Mobile Devices,275,41,2.9,6601
+2017-11-24,Headphones,Computers,511,28,1.2,4960
+2017-11-25,Headphones,Computers,194,44,1.2,4857
+2017-11-26,Headphones,Networking,556,8,2.7,6038
+2017-11-27,Drone,Networking,40,38,4.8,5689
+2017-11-28,Headphones,Networking,609,2,1.2,9085
+2017-11-29,Tablet,Networking,817,33,1.7,9833
+2017-11-30,Drone,Networking,890,48,3.2,9453
+2017-12-01,Laptop,Computers,505,6,2.2,6447
+2017-12-02,Drone,Networking,477,50,3.9,4603
+2017-12-03,Smartwatch,Audio & Video,556,48,1.3,5671
+2017-12-04,Keyboard,Networking,438,7,3.8,3775
+2017-12-05,Tablet,Mobile Devices,37,24,4.2,9406
+2017-12-06,Smartphone,Accessories,935,7,2.3,9485
+2017-12-07,Drone,Networking,154,31,3.9,5885
+2017-12-08,Smartphone,Mobile Devices,383,26,4.5,3472
+2017-12-09,Smartphone,Networking,568,20,3.6,7409
+2017-12-10,Drone,Computers,854,11,4.3,8457
+2017-12-11,Monitor,Computers,685,35,1.9,4603
+2017-12-12,Laptop,Computers,22,47,2.3,5392
+2017-12-13,Tablet,Mobile Devices,444,25,4.8,6718
+2017-12-14,Smartphone,Audio & Video,725,31,2.8,6904
+2017-12-15,Laptop,Accessories,390,9,2.2,9358
+2017-12-16,Headphones,Networking,869,26,1.7,7758
+2017-12-17,Router,Networking,425,40,1.3,9358
+2017-12-18,Camera,Computers,239,35,4.7,7762
+2017-12-19,Drone,Networking,790,5,4.4,8235
+2017-12-20,Tablet,Audio & Video,398,24,1.6,7597
+2017-12-21,Tablet,Networking,625,43,4.7,7839
+2017-12-22,Smartwatch,Computers,796,4,1.9,8322
+2017-12-23,Router,Audio & Video,900,38,3.3,8934
+2017-12-24,Headphones,Accessories,272,12,3.0,3830
+2017-12-25,Camera,Audio & Video,393,25,3.7,8858
+2017-12-26,Smartphone,Accessories,676,8,2.8,7581
+2017-12-27,Router,Computers,904,28,1.7,2595
+2017-12-28,Smartphone,Networking,591,11,3.2,3109
+2017-12-29,Camera,Computers,784,43,2.7,2708
+2017-12-30,Tablet,Computers,432,39,2.4,4826
+2017-12-31,Laptop,Computers,457,37,2.5,3143
+2018-01-01,Keyboard,Accessories,116,43,3.9,9432
+2018-01-02,Monitor,Audio & Video,250,45,4.6,4791
+2018-01-03,Smartphone,Audio & Video,713,3,2.6,2814
+2018-01-04,Router,Networking,893,43,3.3,2537
+2018-01-05,Router,Audio & Video,282,46,4.9,3568
+2018-01-06,Keyboard,Audio & Video,921,36,1.1,2476
+2018-01-07,Laptop,Accessories,313,11,1.7,4410
+2018-01-08,Camera,Computers,412,48,4.7,6232
+2018-01-09,Drone,Networking,510,29,2.4,2714
+2018-01-10,Monitor,Audio & Video,366,34,3.4,4151
+2018-01-11,Tablet,Networking,27,25,2.5,7430
+2018-01-12,Laptop,Computers,345,10,2.3,9368
+2018-01-13,Headphones,Audio & Video,22,23,2.2,4494
+2018-01-14,Smartwatch,Audio & Video,350,36,1.6,9142
+2018-01-15,Router,Networking,303,20,2.9,3416
+2018-01-16,Smartphone,Networking,778,34,4.5,6922
+2018-01-17,Tablet,Audio & Video,850,38,2.3,5604
+2018-01-18,Smartphone,Mobile Devices,875,14,4.5,2630
+2018-01-19,Tablet,Audio & Video,840,26,2.4,4771
+2018-01-20,Headphones,Mobile Devices,766,15,1.9,6749
+2018-01-21,Tablet,Mobile Devices,485,37,1.8,9035
+2018-01-22,Smartphone,Computers,206,19,2.3,7722
+2018-01-23,Monitor,Computers,46,2,1.8,2378
+2018-01-24,Monitor,Computers,889,12,1.7,2440
+2018-01-25,Drone,Audio & Video,284,35,1.7,2071
+2018-01-26,Drone,Networking,334,12,4.4,9704
+2018-01-27,Smartphone,Computers,21,34,3.3,7868
+2018-01-28,Camera,Accessories,804,1,4.7,7698
+2018-01-29,Camera,Computers,678,42,1.1,7615
+2018-01-30,Router,Accessories,341,28,2.8,5032
+2018-01-31,Headphones,Mobile Devices,314,10,3.8,3166
+2018-02-01,Keyboard,Accessories,901,46,2.7,2941
+2018-02-02,Drone,Mobile Devices,809,13,3.7,3677
+2018-02-03,Drone,Networking,227,28,4.5,4379
+2018-02-04,Router,Computers,859,19,4.0,8623
+2018-02-05,Camera,Networking,588,36,2.5,7909
+2018-02-06,Drone,Computers,763,13,2.0,7776
+2018-02-07,Camera,Audio & Video,884,30,1.5,5016
+2018-02-08,Monitor,Audio & Video,437,46,4.4,2870
+2018-02-09,Camera,Networking,793,10,2.2,3554
+2018-02-10,Tablet,Audio & Video,747,18,3.4,8826
+2018-02-11,Keyboard,Accessories,999,5,3.8,7567
+2018-02-12,Router,Audio & Video,828,12,1.7,6364
+2018-02-13,Camera,Computers,678,46,4.6,9666
+2018-02-14,Keyboard,Accessories,493,11,4.9,3775
+2018-02-15,Router,Networking,740,45,1.9,5272
+2018-02-16,Keyboard,Networking,882,45,2.8,2086
+2018-02-17,Camera,Computers,746,7,1.6,6229
+2018-02-18,Tablet,Audio & Video,894,47,4.8,2443
+2018-02-19,Laptop,Audio & Video,520,25,4.4,5171
+2018-02-20,Router,Computers,378,41,4.1,4701
+2018-02-21,Keyboard,Networking,52,14,2.4,6842
+2018-02-22,Smartphone,Audio & Video,813,30,2.5,6176
+2018-02-23,Router,Computers,919,18,1.5,2843
+2018-02-24,Smartphone,Accessories,342,3,2.5,8505
+2018-02-25,Camera,Networking,99,27,1.6,9149
+2018-02-26,Monitor,Networking,689,41,2.9,4025
+2018-02-27,Headphones,Mobile Devices,832,36,1.6,6630
+2018-02-28,Headphones,Accessories,322,33,1.8,7070
+2018-03-01,Smartphone,Mobile Devices,316,44,2.7,6478
+2018-03-02,Laptop,Networking,760,26,1.8,5682
+2018-03-03,Headphones,Mobile Devices,243,40,3.8,5530
+2018-03-04,Smartphone,Computers,969,42,1.8,7167
+2018-03-05,Router,Accessories,572,10,1.0,9334
+2018-03-06,Tablet,Accessories,95,14,2.3,2293
+2018-03-07,Drone,Computers,578,29,3.6,3335
+2018-03-08,Smartwatch,Networking,962,15,4.3,5396
+2018-03-09,Smartphone,Audio & Video,120,46,1.2,5978
+2018-03-10,Monitor,Networking,788,35,1.4,7430
+2018-03-11,Smartphone,Computers,68,47,4.0,8775
+2018-03-12,Laptop,Networking,205,37,3.8,4819
+2018-03-13,Smartwatch,Networking,110,13,1.4,3244
+2018-03-14,Router,Networking,545,47,3.9,6167
+2018-03-15,Tablet,Mobile Devices,880,5,4.3,2207
+2018-03-16,Router,Accessories,543,34,2.8,3974
+2018-03-17,Laptop,Computers,836,36,1.1,5646
+2018-03-18,Headphones,Mobile Devices,385,29,2.4,4076
+2018-03-19,Smartwatch,Computers,834,12,1.2,6057
+2018-03-20,Keyboard,Mobile Devices,791,18,3.3,9548
+2018-03-21,Tablet,Accessories,676,10,1.5,8330
+2018-03-22,Smartwatch,Accessories,895,27,3.6,9534
+2018-03-23,Keyboard,Audio & Video,292,40,2.5,6870
+2018-03-24,Camera,Mobile Devices,953,38,1.2,8803
+2018-03-25,Drone,Mobile Devices,678,11,4.3,6926
+2018-03-26,Smartphone,Audio & Video,876,3,4.9,7909
+2018-03-27,Smartwatch,Audio & Video,381,1,4.1,4003
+2018-03-28,Router,Networking,233,44,2.4,8906
+2018-03-29,Drone,Networking,625,48,2.8,4298
+2018-03-30,Camera,Computers,730,41,1.4,3412
+2018-03-31,Smartphone,Computers,652,46,2.3,7953
+2018-04-01,Smartphone,Networking,935,16,1.2,9531
+2018-04-02,Tablet,Audio & Video,687,36,4.2,5576
+2018-04-03,Keyboard,Computers,471,13,4.6,7823
+2018-04-04,Smartwatch,Networking,758,26,3.1,5712
+2018-04-05,Monitor,Computers,72,17,1.3,2728
+2018-04-06,Keyboard,Mobile Devices,959,34,4.5,6285
+2018-04-07,Smartwatch,Audio & Video,272,4,1.3,9547
+2018-04-08,Laptop,Audio & Video,784,27,4.8,9190
+2018-04-09,Headphones,Mobile Devices,258,29,2.5,6782
+2018-04-10,Headphones,Audio & Video,845,9,3.5,7710
+2018-04-11,Camera,Accessories,548,18,3.3,9314
+2018-04-12,Smartwatch,Mobile Devices,404,34,2.5,3543
+2018-04-13,Camera,Mobile Devices,900,39,3.9,4000
+2018-04-14,Router,Networking,833,13,4.5,8151
+2018-04-15,Keyboard,Mobile Devices,895,16,2.1,5859
+2018-04-16,Monitor,Computers,624,7,2.2,7826
+2018-04-17,Smartphone,Mobile Devices,848,11,1.1,9423
+2018-04-18,Router,Mobile Devices,927,23,2.2,3878
+2018-04-19,Smartphone,Computers,999,18,3.9,9839
+2018-04-20,Headphones,Computers,385,45,3.5,3962
+2018-04-21,Monitor,Accessories,892,27,1.3,7571
+2018-04-22,Smartwatch,Mobile Devices,290,37,1.9,3384
+2018-04-23,Monitor,Mobile Devices,312,23,1.7,4645
+2018-04-24,Camera,Networking,887,40,2.2,9653
+2018-04-25,Laptop,Audio & Video,221,24,2.0,9207
+2018-04-26,Smartphone,Mobile Devices,505,40,4.9,6368
+2018-04-27,Router,Computers,663,19,1.9,2780
+2018-04-28,Keyboard,Accessories,192,31,3.1,7451
+2018-04-29,Keyboard,Mobile Devices,389,47,3.9,6810
+2018-04-30,Laptop,Mobile Devices,95,18,2.9,7568
+2018-05-01,Keyboard,Networking,506,29,4.8,9063
+2018-05-02,Monitor,Accessories,113,14,3.5,3314
+2018-05-03,Camera,Accessories,557,33,4.5,9329
+2018-05-04,Monitor,Audio & Video,79,46,2.8,8214
+2018-05-05,Laptop,Audio & Video,803,21,2.2,5692
+2018-05-06,Smartphone,Networking,752,12,4.8,9866
+2018-05-07,Headphones,Accessories,448,28,1.9,7041
+2018-05-08,Camera,Audio & Video,425,14,2.9,4182
+2018-05-09,Monitor,Mobile Devices,74,44,2.8,7339
+2018-05-10,Router,Computers,609,20,1.5,2838
+2018-05-11,Smartwatch,Mobile Devices,426,41,4.4,5032
+2018-05-12,Smartphone,Audio & Video,473,42,2.4,4064
+2018-05-13,Camera,Accessories,238,15,3.6,7080
+2018-05-14,Tablet,Accessories,704,19,1.9,9547
+2018-05-15,Headphones,Mobile Devices,930,28,2.9,8970
+2018-05-16,Drone,Mobile Devices,43,1,1.7,5987
+2018-05-17,Drone,Mobile Devices,119,32,2.5,8279
+2018-05-18,Router,Mobile Devices,399,18,4.8,8065
+2018-05-19,Monitor,Mobile Devices,961,21,2.6,7814
+2018-05-20,Drone,Accessories,573,15,3.9,7147
+2018-05-21,Router,Audio & Video,333,11,4.7,3899
+2018-05-22,Drone,Mobile Devices,176,5,4.4,4855
+2018-05-23,Drone,Accessories,354,8,3.9,3659
+2018-05-24,Headphones,Networking,712,43,4.7,7432
+2018-05-25,Smartwatch,Computers,418,19,3.0,3355
+2018-05-26,Laptop,Networking,627,15,2.4,5842
+2018-05-27,Camera,Mobile Devices,126,30,1.5,6995
+2018-05-28,Router,Audio & Video,825,21,4.9,9183
+2018-05-29,Keyboard,Audio & Video,566,13,1.8,7995
+2018-05-30,Keyboard,Accessories,756,4,4.1,8164
+2018-05-31,Tablet,Audio & Video,135,34,1.7,6987
+2018-06-01,Smartwatch,Audio & Video,483,21,4.3,3935
+2018-06-02,Keyboard,Computers,696,25,3.4,3366
+2018-06-03,Smartwatch,Networking,610,50,4.6,8255
+2018-06-04,Camera,Mobile Devices,672,43,3.4,4419
+2018-06-05,Keyboard,Audio & Video,349,42,1.3,4639
+2018-06-06,Monitor,Audio & Video,439,13,3.2,4172
+2018-06-07,Monitor,Computers,296,17,3.0,5897
+2018-06-08,Keyboard,Accessories,821,10,2.4,3116
+2018-06-09,Smartwatch,Audio & Video,593,36,4.6,8393
+2018-06-10,Smartwatch,Audio & Video,953,36,2.2,8555
+2018-06-11,Smartphone,Computers,977,48,4.3,9364
+2018-06-12,Camera,Networking,733,46,1.0,7580
+2018-06-13,Camera,Computers,462,36,2.2,2378
+2018-06-14,Headphones,Computers,703,35,2.8,7115
+2018-06-15,Keyboard,Mobile Devices,941,11,2.9,6003
+2018-06-16,Monitor,Audio & Video,772,11,3.9,9065
+2018-06-17,Drone,Computers,572,49,1.5,3713
+2018-06-18,Smartphone,Mobile Devices,744,45,4.3,5323
+2018-06-19,Keyboard,Mobile Devices,315,40,2.4,6668
+2018-06-20,Monitor,Accessories,875,40,1.1,2544
+2018-06-21,Router,Accessories,85,43,4.1,7844
+2018-06-22,Drone,Computers,679,45,1.9,5009
+2018-06-23,Smartwatch,Mobile Devices,950,43,1.3,9958
+2018-06-24,Smartwatch,Networking,484,40,4.5,9930
+2018-06-25,Monitor,Mobile Devices,236,16,2.5,6567
+2018-06-26,Smartwatch,Accessories,835,5,4.2,2576
+2018-06-27,Laptop,Computers,324,50,4.5,9255
+2018-06-28,Monitor,Networking,383,37,2.2,9518
+2018-06-29,Headphones,Audio & Video,458,44,4.5,5394
+2018-06-30,Headphones,Mobile Devices,647,26,3.0,2730
+2018-07-01,Smartwatch,Networking,913,33,3.6,2203
+2018-07-02,Keyboard,Audio & Video,971,43,2.9,6643
+2018-07-03,Headphones,Computers,754,8,2.4,2549
+2018-07-04,Headphones,Mobile Devices,314,10,4.3,9718
+2018-07-05,Camera,Computers,450,17,3.0,3876
+2018-07-06,Laptop,Networking,247,44,3.3,8007
+2018-07-07,Laptop,Accessories,471,34,4.9,2903
+2018-07-08,Monitor,Mobile Devices,739,20,3.7,8280
+2018-07-09,Keyboard,Networking,464,42,1.2,6648
+2018-07-10,Keyboard,Accessories,302,20,4.6,4128
+2018-07-11,Keyboard,Networking,758,10,4.6,2968
+2018-07-12,Router,Accessories,28,49,3.7,5686
+2018-07-13,Keyboard,Audio & Video,192,35,4.2,5482
+2018-07-14,Drone,Networking,920,17,1.8,8846
+2018-07-15,Laptop,Networking,361,14,3.1,9909
+2018-07-16,Drone,Networking,843,36,4.7,2430
+2018-07-17,Smartphone,Audio & Video,707,2,3.3,6861
+2018-07-18,Router,Accessories,448,32,1.3,2936
+2018-07-19,Tablet,Networking,681,12,4.2,8720
+2018-07-20,Monitor,Accessories,795,47,3.6,8712
+2018-07-21,Keyboard,Networking,223,7,3.5,2702
+2018-07-22,Smartwatch,Mobile Devices,306,45,2.2,4943
+2018-07-23,Monitor,Accessories,450,31,2.8,2727
+2018-07-24,Smartwatch,Computers,303,19,4.1,6971
+2018-07-25,Smartphone,Accessories,795,2,3.5,5702
+2018-07-26,Headphones,Networking,693,36,2.4,8462
+2018-07-27,Tablet,Networking,729,10,4.1,8855
+2018-07-28,Headphones,Accessories,78,46,1.6,5690
+2018-07-29,Keyboard,Audio & Video,266,18,2.8,8206
+2018-07-30,Smartwatch,Audio & Video,79,34,2.6,9438
+2018-07-31,Camera,Accessories,978,31,3.8,2412
+2018-08-01,Tablet,Accessories,498,8,4.8,7090
+2018-08-02,Laptop,Audio & Video,606,35,4.7,4896
+2018-08-03,Smartphone,Accessories,36,48,4.3,8820
+2018-08-04,Drone,Mobile Devices,171,24,2.0,7778
+2018-08-05,Tablet,Mobile Devices,468,46,1.6,3216
+2018-08-06,Router,Mobile Devices,129,17,3.9,7859
+2018-08-07,Keyboard,Audio & Video,248,49,2.7,9034
+2018-08-08,Router,Accessories,30,2,2.2,9276
+2018-08-09,Monitor,Networking,339,16,3.2,7300
+2018-08-10,Tablet,Accessories,826,34,4.5,9013
+2018-08-11,Headphones,Networking,937,44,2.7,9839
+2018-08-12,Headphones,Mobile Devices,898,40,3.9,3549
+2018-08-13,Smartwatch,Networking,71,1,4.7,2371
+2018-08-14,Smartwatch,Networking,465,47,1.3,2931
+2018-08-15,Monitor,Networking,139,32,3.2,9604
+2018-08-16,Keyboard,Computers,87,11,1.8,7108
+2018-08-17,Laptop,Computers,288,2,4.4,6535
+2018-08-18,Keyboard,Audio & Video,515,8,2.1,9002
+2018-08-19,Laptop,Mobile Devices,570,40,4.1,4656
+2018-08-20,Drone,Audio & Video,235,40,4.2,5070
+2018-08-21,Drone,Mobile Devices,471,2,4.1,4451
+2018-08-22,Smartwatch,Accessories,421,14,2.8,4928
+2018-08-23,Tablet,Accessories,890,15,2.5,6348
+2018-08-24,Smartwatch,Mobile Devices,313,7,4.3,3115
+2018-08-25,Drone,Networking,207,23,4.6,9617
+2018-08-26,Tablet,Computers,138,4,3.3,3212
+2018-08-27,Monitor,Networking,649,28,4.3,4485
+2018-08-28,Keyboard,Accessories,514,45,1.1,2372
+2018-08-29,Headphones,Computers,667,6,2.4,6026
+2018-08-30,Laptop,Accessories,343,21,2.5,8324
+2018-08-31,Headphones,Audio & Video,421,16,3.6,9429
+2018-09-01,Laptop,Computers,333,48,2.7,6040
+2018-09-02,Headphones,Mobile Devices,937,22,4.5,9544
+2018-09-03,Headphones,Networking,146,19,4.3,6266
+2018-09-04,Drone,Accessories,585,24,3.4,5961
+2018-09-05,Laptop,Accessories,210,17,1.1,5759
+2018-09-06,Tablet,Audio & Video,904,11,5.0,7763
+2018-09-07,Drone,Networking,682,45,1.8,6417
+2018-09-08,Keyboard,Networking,872,11,1.3,6458
+2018-09-09,Monitor,Audio & Video,96,41,2.7,2348
+2018-09-10,Smartphone,Mobile Devices,833,50,4.9,5497
+2018-09-11,Drone,Mobile Devices,66,31,1.0,9979
+2018-09-12,Monitor,Mobile Devices,478,2,3.3,8595
+2018-09-13,Tablet,Mobile Devices,314,28,1.2,4558
+2018-09-14,Drone,Networking,664,36,2.1,3133
+2018-09-15,Smartwatch,Networking,235,17,3.6,5660
+2018-09-16,Smartphone,Networking,629,46,2.6,9595
+2018-09-17,Monitor,Networking,403,14,1.7,7302
+2018-09-18,Monitor,Computers,171,40,3.4,5954
+2018-09-19,Keyboard,Computers,999,18,2.3,2953
+2018-09-20,Drone,Accessories,278,10,1.5,6734
+2018-09-21,Smartphone,Computers,430,38,4.5,2988
+2018-09-22,Tablet,Mobile Devices,790,16,3.1,9580
+2018-09-23,Headphones,Computers,722,48,1.5,6209
+2018-09-24,Smartphone,Mobile Devices,514,17,3.0,2116
+2018-09-25,Smartphone,Computers,957,8,4.2,9732
+2018-09-26,Monitor,Mobile Devices,252,39,2.0,2211
